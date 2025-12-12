@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Aisyah Az-Zahra! 👋  
+### 🚀 Aspiring Data Scientist | 📊 Data Enthusiast | 🎨 Creative Visual Thinker
 
-<!--
-**aisyahazzahra123/aisyahazzahra123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an enthusiastic beginner in data science with strong curiosity and creativity.  
+Currently building my skills in Python, data analysis, visualization, and machine learning.
 
-Here are some ideas to get you started:
+I love turning raw data into meaningful stories — supported by my background in art & visual design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack (In Progress)
+- **Languages:** Python  
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Tools:** Google Colab, Jupyter Notebook, Excel/Spreadsheet, Canva  
+- **Learning:** Statistics, Machine Learning (Regression, Classification, Clustering)
+
+---
+
+## 📚 My Data Science Journey
+I'm currently learning through hands-on projects and structured weekly progress.
+
+Upcoming projects:
+- 🏡 *House Price Prediction (Regression)*  
+- 📉 *Customer Churn Classification*  
+- 📊 *Data Visualization Dashboard*  
+
+(Projects will appear here soon!)
+
+---
+
+## 🎨 Strengths
+- Strong visual sense for clean and meaningful charts  
+- Fast learner  
+- Creative + analytical mindset  
+- Clear data storytelling  
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** (akan ditambahkan)
+- **Portfolio Projects:** Coming soon  
+- **GitHub:** You're already here! 😄
+
+---
+
+✨ *Thank you for visiting my GitHub! I'm excited to share my growth in data science.*  
+
+
+
