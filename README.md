@@ -37,7 +37,7 @@ Upcoming projects:
 ---
 
 ## 📫 Connect With Me
-- **LinkedIn:** (akan ditambahkan)
+- **LinkedIn:**(https://www.linkedin.com/in/aisyah-azzahra-442804394/?trk=opento_sprofile_details)
 - **Portfolio Projects:** Coming soon  
 - **GitHub:** You're already here! 😄
 
